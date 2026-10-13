@@ -2,7 +2,9 @@
 
 Bu proje; harici, ücretli yapay zeka API'lerine (OpenAI vb.) ihtiyaç duymadan, **tamamen yerel (local) kaynaklarla** çalışan ve sıfır maliyetle geliştirilmiş bir **CV ve İş İlanı Eşleştirme (ATS) Sistemidir**. 
 
-Kullanıcıların yükledikleri PDF formatındaki CV'leri hedef iş ilanlarıyla karşılaştırarak anlamsal uyumluluk puanı hesaplar ve yerel dil modelleri aracılığıyla detaylı eksik analizi ile kariyer önerileri sunar.
+Kullanıcıların yükledikleri PDF formatındaki farklı farklı CV'leri hedef iş ilanlarıyla karşılaştırarak anlamsal uyumluluk puanı hesaplar ve yerel dil modelleri aracılığıyla detaylı eksik analizi ile kariyer önerileri sunar.
+
+Projede iş ilanına göre ATS uyumluluğu düşük farklı CV'ler kullanılmıştır.
 
 ---
 
