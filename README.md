@@ -19,7 +19,7 @@ Projede iş ilanına göre ATS uyumluluğu düşük farklı CV'ler kullanılmı�
 
 ---
 
-<img width="1116" height="847" alt="image" src="https://github.com/user-attachments/assets/8ac0e226-b74f-4306-aa70-9aaa627e3463" />
+<img width="1108" height="837" alt="image" src="https://github.com/user-attachments/assets/100e918e-acd9-490e-b94f-66b1272713d1" />
 
 Masaüstü Uygulaması: Sistem; sol taraftaki PDF yükleme ve iş ilanı giriş paneli ile sağ taraftaki anlamsal ATS puanı ve Ollama yapay zeka önerileri ekranını tek bir modern sayfada buluşturur.
 
