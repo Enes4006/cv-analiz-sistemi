@@ -1,0 +1,26 @@
+cv-analiz-sistemi/
+├── data/
+│   ├── sample_cvs/          # Test için örnek PDF CV'ler
+│   └── sample_jds/          # Örnek iş ilanları metinleri
+├── src/
+│   ├── __init__.py
+│   ├── parser.py            # PDF/Word dosyasından metin çıkarma
+│   ├── matcher.py           # Vektör tabanlı ATS puanlama ve benzerlik
+│   ├── analyzer.py          # Ollama (Local LLM) ile eksik analizi ve öneriler
+│   └── utils.py             # Yardımcı fonksiyonlar (temizlik, regex vb.)
+├── app.py                   # Streamlit Arayüzü (Ana Çalıştırma Dosyası)
+├── app_desktop              # Masaüstü uygulaması
+├── app_bootstrap            # FastAPI Backend ve Bootstrap Ön Yüzü (Ana Dosya)
+├── requirements.txt         # Proje bağımlılıkları
+├── Dockerfile               # İsteğe bağlı Docker yapılandırması
+└── README.md                # Proje dokümantasyonu
+
+
+
+streamlit run app.py
+
+python app_desktop.py
+pyinstaller --onefile --windowed app_desktop.py
+
+python app_bootstrap.py
+https://dandy-upbeat-herself.ngrok-free.dev/
