@@ -19,10 +19,10 @@ Kullanıcıların yükledikleri PDF formatındaki CV'leri hedef iş ilanlarıyla
 
 <img width="1116" height="847" alt="image" src="https://github.com/user-attachments/assets/8ac0e226-b74f-4306-aa70-9aaa627e3463" />
 
-Sistem; sol taraftaki PDF yükleme ve iş ilanı giriş paneli ile sağ taraftaki anlamsal ATS puanı ve Ollama yapay zeka önerileri ekranını tek bir modern sayfada buluşturur.
+Masaüstü Uygulaması: Sistem; sol taraftaki PDF yükleme ve iş ilanı giriş paneli ile sağ taraftaki anlamsal ATS puanı ve Ollama yapay zeka önerileri ekranını tek bir modern sayfada buluşturur.
 
 
 <img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/3ba8ed4b-f616-4aea-8966-130fe7eebd82" />
 
-FastAPI ve Bootstrap 5 ile geliştirilen, şık glassmorphism efektlerine ve gradient tasarıma sahip web arayüzü görünümü
+Web Arayüzü: FastAPI ve Bootstrap 5 ile geliştirilen, şık glassmorphism efektlerine ve gradient tasarıma sahip web arayüzü görünümü
 
