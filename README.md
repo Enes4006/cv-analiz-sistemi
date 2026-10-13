@@ -13,6 +13,7 @@ Kullanıcıların yükledikleri PDF formatındaki CV'leri hedef iş ilanlarıyla
 - **ATS Uyumluluk Puanı:** `scikit-learn` ve TF-IDF kullanarak CV ile iş ilanı arasındaki anlamsal benzerliği yüzde bazlı hesaplar.
 - **Yapay Zeka Önerileri:** **Ollama** entegrasyonu (Llama 3, gemma 3b vb.) sayesinde adayın eksik yetkinliklerini tespit eder ve geliştirme tavsiyeleri verir.
 - **Profesyonel Web Arayüzü:** **FastAPI** backend mimarisi ve şık, renkli **Bootstrap 5 (Glassmorphism & Gradient)** ön yüz tasarımıyla modern bir deneyim sunar.
+- **Masaüstü Uygulama Desteği:** İsteğe bağlı olarak **CustomTkinter** altyapısıyla tarayıcı bağımlılığı olmadan, yerel bir masaüstü yazılımı olarak da çalıştırılabilir.
 
 ---
 
